@@ -1,1 +1,2 @@
-nuevo readme
+nuevo readme 
+con nueva ayuda
